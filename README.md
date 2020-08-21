@@ -5,6 +5,11 @@
 
 Experimenting with Vue 3 Suspense
 
+## Video Walkthrough
+[![Video Walkthrough](https://img.youtube.com/vi/LvOYCjpMQ10/0.jpg)](https://www.youtube.com/watch?v=LvOYCjpMQ10&list=PLMLZt4pr7Aq6AfC_ynfeDbEk2hbMFGpHO&index=3)
+
+Check out the entire [Vue 3 Playlist](https://www.youtube.com/playlist?list=PLMLZt4pr7Aq6AfC_ynfeDbEk2hbMFGpHO) on the [Modus Create YouTube Channel](http://youtube.com/moduscreate?sub_confirmation=1).
+
 ## Project setup
 
 ```
